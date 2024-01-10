@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Design & Topology</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Network Topology</b>
+  - [Network Design](https://github.com/Realdavidking/Network-Design-Topology)
 - <b>Creating & Deploying Web App (Microsoft Azure)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Defensive Security Project</b>
