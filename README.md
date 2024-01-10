@@ -21,6 +21,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Digital Forensics Project</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<h2>👨‍💻 Certifications:</h2>
+
+ - [CompTIA Sec +](https://drive.google.com/file/d/1kkRgcB8IyaQClMVcFjfE8ZRdWSAX1tC_/view?usp=sharing)
 
 <h2>📺 Popular YouTube Videos</h2>
 
