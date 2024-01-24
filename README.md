@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/david-oyedapo-62b183260">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/david-oyedapo-62b183260">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
