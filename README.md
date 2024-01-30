@@ -6,7 +6,7 @@
   - [Network Design](https://github.com/Realdavidking/Network-Design-Topology)
 - <b>Creating & Deploying Web App (Microsoft Azure)</b>
   - [Creating Web App on Azure](https://github.com/Realdavidking/Designing-Web-Application)
-- <b>Defensive Security Project</b>
+- <b>Developing a Defensive Solution using a SIEM</b>
   
 - <b>Stormbreaker Exploitation Project</b>
   
