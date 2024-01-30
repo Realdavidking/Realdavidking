@@ -20,8 +20,6 @@
 
  - [CompTIA Sec +](https://drive.google.com/file/d/1kkRgcB8IyaQClMVcFjfE8ZRdWSAX1tC_/view?usp=sharing)
 
-<h2>📺 Popular YouTube Videos</h2>
-
 
 
 <h2> 🤳 Connect with me:</h2>
