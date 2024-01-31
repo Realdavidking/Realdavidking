@@ -10,7 +10,7 @@
   - [Using Splunk to Develop Reports, Alerts and Dashboards](https://github.com/Realdavidking/SIEM-Defensive-Solution)
   
 - <b>Stormbreaker Exploitation Project</b>
-  
+  - [Powerpoint Presentation](https://docs.google.com/presentation/d/1cElRMgJ7sg5T49vrhCHG0vE0jS5EcOxqv3A4fbBTUns/edit?usp=sharing) 
 - <b>WPA2 vulnerability & Windows 10 Exploitation </b>
  
 - <b>Digital Forensics Project</b>
